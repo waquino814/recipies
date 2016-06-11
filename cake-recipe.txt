@@ -5,3 +5,10 @@ git diff, different my local and the staging area
 
 git diff —staged, differents staging local and repository
 
+git branch list the branches on my code and put and * to the one tha i'm connected to
+git branch [name of the branch] will create a new branch with the name argument 
+
+
+git checkout [the name of the branch] to check out an specific branch y just hvae to use 
+
+git branch -d [the name of the branch] delete a branch
