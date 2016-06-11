@@ -1,0 +1,7 @@
+git notes
+
+git add, add the file from my local to the staging
+git diff, different my local and the staging area
+
+git diff —staged, differents staging local and repository
+
