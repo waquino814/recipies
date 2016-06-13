@@ -1,5 +1,6 @@
 git notes
 
+///working local
 git add, add the file from my local to the staging
 git diff, different my local and the staging area
 
@@ -12,3 +13,8 @@ git branch [name of the branch] will create a new branch with the name argument
 git checkout [the name of the branch] to check out an specific branch y just hvae to use 
 
 git branch -d [the name of the branch] delete a branch
+
+
+
+///working remote
+git remote add origin https://github.com/waquino814/recipies.git  connect my local with a remote repository called origin(random name) and specific url location
